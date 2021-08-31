@@ -10,7 +10,7 @@ REALISTIC MODE(VIEWBOT + CHATBOT + MANA SENDING)
 MANA SENDER
 MANA FAMER
 
-Check Link: https://discord.gg/pVAVKHJkAa
+Check Link: https://discord.gg/Bmukgj2jcc
 
 <!--
 **TrovoAio/TrovoAIO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
