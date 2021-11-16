@@ -9,7 +9,7 @@ VIEWBOT + CHATBOT
 REALISTIC MODE(VIEWBOT + CHATBOT + MANA SENDING)
 MANA SENDER
 MANA FAMER
-
+💬 Ask me about TrovoAIO
 Check Link: https://discord.gg/Bmukgj2jcc
 
 <!--
