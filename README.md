@@ -12,6 +12,14 @@ MANA FAMER
 💬 Ask me about TrovoAIO
 Check Link: https://discord.gg/Bmukgj2jcc
 
+========================================================================
+Realistic
+Delay is in minute for chatbot recommended 1 - 60
+Bots aren't sending message : your cookies are dead or your delay is too high or your chat is in follower mode.
+Software shut down after "Waiting for ressource Message realistic" : your chat list is too short.
+Failed to load page . your proxies 
+========================================================================
+
 <!--
 **TrovoAio/TrovoAIO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ========================================================================
